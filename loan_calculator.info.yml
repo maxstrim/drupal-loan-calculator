@@ -1,0 +1,4 @@
+name: Loan Calculator
+description: Provides a loan calculator as a block.
+type: module
+core: 8.x

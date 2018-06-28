@@ -1,0 +1,6 @@
+loan_calculator_js:
+  version: 0
+  js:
+    js/loan_calculator.js: {}
+  dependencies:
+    - core/jquery
